@@ -12,7 +12,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-05-14T18:51:25Z",
+                "last_commit": "2026-05-16T23:53:03Z",
                 "owner": "rqlite",
                 "repo": "rqlite",
                 "stars": 17510
@@ -27,10 +27,10 @@
                   "repo_info": {
                     "archived": false,
                     "language": "Go",
-                    "last_commit": "2026-05-15T17:45:26Z",
+                    "last_commit": "2026-05-16T15:44:23Z",
                     "owner": "pingcap",
                     "repo": "tidb",
-                    "stars": 40094
+                    "stars": 40096
                   }
                 },
                 {
@@ -57,10 +57,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-05-15T17:45:26Z",
+                "last_commit": "2026-05-16T15:44:23Z",
                 "owner": "pingcap",
                 "repo": "tidb",
-                "stars": 40094
+                "stars": 40096
               }
             },
             {
@@ -94,7 +94,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-14T18:51:25Z",
+            "last_commit": "2026-05-16T23:53:03Z",
             "owner": "rqlite",
             "repo": "rqlite",
             "stars": 17510
@@ -202,10 +202,10 @@
                   "repo_info": {
                     "archived": false,
                     "language": "C++",
-                    "last_commit": "2026-05-15T22:47:42Z",
+                    "last_commit": "2026-05-17T00:02:00Z",
                     "owner": "scylladb",
                     "repo": "scylladb",
-                    "stars": 15543
+                    "stars": 15546
                   }
                 }
               ],
@@ -350,10 +350,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-05-16T03:32:26Z",
+                "last_commit": "2026-05-17T03:23:15Z",
                 "owner": "ModernRelay",
                 "repo": "omnigraph",
-                "stars": 214
+                "stars": 216
               }
             },
             {
@@ -391,7 +391,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Kotlin",
-                "last_commit": "2026-05-16T05:25:24Z",
+                "last_commit": "2026-05-16T12:58:58Z",
                 "owner": "kakao",
                 "repo": "actionbase",
                 "stars": 215
@@ -403,10 +403,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-16T03:32:26Z",
+            "last_commit": "2026-05-17T03:23:15Z",
             "owner": "ModernRelay",
             "repo": "omnigraph",
-            "stars": 214
+            "stars": 216
           }
         },
         {
@@ -458,7 +458,7 @@
                 "last_commit": "2026-05-15T23:36:08Z",
                 "owner": "influxdata",
                 "repo": "influxdb",
-                "stars": 31501
+                "stars": 31502
               }
             },
             {
@@ -512,7 +512,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-05-15T20:28:47Z",
+                "last_commit": "2026-05-17T05:17:30Z",
                 "owner": "apache",
                 "repo": "druid",
                 "stars": 13993
@@ -589,7 +589,7 @@
             "last_commit": "2026-05-15T23:36:08Z",
             "owner": "influxdata",
             "repo": "influxdb",
-            "stars": 31501
+            "stars": 31502
           }
         },
         {
@@ -655,7 +655,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-05-15T21:03:23Z",
+                "last_commit": "2026-05-16T09:11:43Z",
                 "owner": "SouravRoy-ETL",
                 "repo": "slothdb",
                 "stars": 851
@@ -829,7 +829,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C",
-                "last_commit": "2026-05-15T19:44:29Z",
+                "last_commit": "2026-05-17T05:29:09Z",
                 "owner": "confluentinc",
                 "repo": "librdkafka",
                 "stars": 974
@@ -947,7 +947,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-14T18:31:52Z",
+            "last_commit": "2026-05-17T00:08:38Z",
             "owner": "drt-hub",
             "repo": "drt",
             "stars": 25
@@ -1109,10 +1109,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-16T02:28:48Z",
+            "last_commit": "2026-05-17T05:10:50Z",
             "owner": "kreuzberg-dev",
             "repo": "kreuzberg",
-            "stars": 8319
+            "stars": 8321
           }
         },
         {
@@ -1259,7 +1259,7 @@
             "last_commit": "2026-05-15T08:36:24Z",
             "owner": "juicedata",
             "repo": "juicefs",
-            "stars": 13584
+            "stars": 13585
           }
         },
         {
@@ -1310,7 +1310,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-11T16:29:12Z",
+            "last_commit": "2026-05-16T17:41:28Z",
             "owner": "s3ql",
             "repo": "s3ql",
             "stars": 1242
@@ -1337,7 +1337,7 @@
             "last_commit": "2026-04-06T10:34:37Z",
             "owner": "HMAKT99",
             "repo": "AKF",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -1394,10 +1394,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-16T03:22:16Z",
+            "last_commit": "2026-05-16T16:42:25Z",
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71226
+            "stars": 71236
           }
         },
         {
@@ -1415,7 +1415,7 @@
             "last_commit": "2026-05-14T17:37:51Z",
             "owner": "EsotericSoftware",
             "repo": "kryo",
-            "stars": 6520
+            "stars": 6519
           }
         },
         {
@@ -1479,10 +1479,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-15T02:56:57Z",
+            "last_commit": "2026-05-17T03:10:36Z",
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 9785
+            "stars": 9807
           }
         },
         {
@@ -1559,7 +1559,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-16T05:31:52Z",
+            "last_commit": "2026-05-17T02:55:11Z",
             "owner": "aklivity",
             "repo": "zilla",
             "stars": 688
@@ -1577,10 +1577,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-16T05:26:25Z",
+            "last_commit": "2026-05-17T05:22:39Z",
             "owner": "pathwaycom",
             "repo": "pathway",
-            "stars": 63315
+            "stars": 63304
           }
         }
       ],
@@ -1890,7 +1890,7 @@
             "last_commit": "2026-05-15T20:55:29Z",
             "owner": "plotly",
             "repo": "dash",
-            "stars": 24185
+            "stars": 24191
           }
         },
         {
@@ -1900,10 +1900,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-16T05:26:45Z",
+            "last_commit": "2026-05-16T07:05:35Z",
             "owner": "apache",
             "repo": "superset",
-            "stars": 72857
+            "stars": 72867
           }
         },
         {
@@ -1918,10 +1918,10 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-05-16T04:01:42Z",
+            "last_commit": "2026-05-16T17:17:25Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 47328
+            "stars": 47346
           }
         },
         {
@@ -1991,7 +1991,7 @@
             "last_commit": "2026-05-12T02:32:06Z",
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18717
+            "stars": 18720
           }
         },
         {
@@ -2011,10 +2011,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-16T05:24:46Z",
+            "last_commit": "2026-05-16T21:16:35Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 45431
+            "stars": 45441
           }
         },
         {
@@ -2050,7 +2050,7 @@
             "last_commit": "2026-05-15T22:30:22Z",
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 15519
+            "stars": 15524
           }
         },
         {
@@ -2060,10 +2060,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-05-12T20:09:51Z",
+            "last_commit": "2026-05-16T19:47:45Z",
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2485
+            "stars": 2487
           }
         },
         {
@@ -2109,7 +2109,7 @@
             "last_commit": "2026-05-15T22:17:49Z",
             "owner": "kestra-io",
             "repo": "kestra",
-            "stars": 26864
+            "stars": 26871
           }
         },
         {
@@ -2119,10 +2119,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-15T17:26:08Z",
+            "last_commit": "2026-05-17T02:36:59Z",
             "owner": "rudderlabs",
             "repo": "rudder-server",
-            "stars": 4406
+            "stars": 4407
           }
         },
         {
@@ -2184,10 +2184,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-16T01:12:22Z",
+            "last_commit": "2026-05-16T07:33:38Z",
             "owner": "treeverse",
             "repo": "lakeFS",
-            "stars": 5372
+            "stars": 5373
           }
         },
         {
@@ -2218,7 +2218,7 @@
             "last_commit": "2026-05-15T12:34:08Z",
             "owner": "apache",
             "repo": "gravitino",
-            "stars": 2947
+            "stars": 2949
           }
         },
         {
@@ -2260,7 +2260,7 @@
             "last_commit": "2021-11-05T18:03:03Z",
             "owner": "jprante",
             "repo": "elasticsearch-jdbc",
-            "stars": 2821
+            "stars": 2820
           }
         },
         {
@@ -2328,7 +2328,7 @@
             "last_commit": "2024-08-09T08:45:55Z",
             "owner": "weaveworks",
             "repo": "weave",
-            "stars": 6613
+            "stars": 6614
           }
         },
         {
@@ -2393,7 +2393,7 @@
             "last_commit": "2026-05-15T20:50:45Z",
             "owner": "hashicorp",
             "repo": "nomad",
-            "stars": 16501
+            "stars": 16506
           }
         },
         {
@@ -2531,7 +2531,7 @@
             "last_commit": "2026-05-15T16:17:25Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 64062
+            "stars": 64074
           }
         },
         {
@@ -2644,7 +2644,7 @@
             "last_commit": "2026-01-05T15:06:48Z",
             "owner": "dqops",
             "repo": "dqo",
-            "stars": 193
+            "stars": 194
           }
         },
         {
@@ -2667,7 +2667,7 @@
             "last_commit": "2026-05-11T06:57:03Z",
             "owner": "provero-org",
             "repo": "provero",
-            "stars": 14
+            "stars": 13
           }
         },
         {
@@ -2680,7 +2680,7 @@
             "last_commit": "2026-05-15T14:10:11Z",
             "owner": "rbmuller",
             "repo": "scherlok",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -2744,7 +2744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:32:27.044Z",
+    "last_updated": "2026-05-17T05:54:25.245Z",
     "original_repository": "igorbarinov/awesome-data-engineering",
     "source_repository": "v1nvn/enhansome-data-engineering",
     "source_repository_description": null,
